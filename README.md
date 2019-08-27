@@ -1,4 +1,4 @@
-You can run these using [glslviewer](https://github.com/patriciogonzalezvivo/glslViewer) or [The Book of Shaders Editor](http://editor.thebookofshaders.com/).
+You can run these using [glslviewer](https://github.com/patriciogonzalezvivo/glslViewer) or [The Book of Shaders Editor](https://thebookofshaders.com/edit.php).
 
 For each chapter, there are three versions:
 
