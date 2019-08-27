@@ -55,7 +55,7 @@ void main() {
     float brightness = 1.0-smoothstep(10.0, 20.0, distance(p, light));
 
     vec3 color = vec3(0.8,1.0,0.8)*max(0.0,dot(norm, normalize(light-p)))*brightness;
-    float specular = pow(max(0.0,dot(reflection, normalize(light-p))), 10.0);
+    float specular = pow(max(0.0,dot(reflection, normalize(light-p))), 100.0);
     vec3 ambient = vec3(0.2,0.2,0.4);
 
 
